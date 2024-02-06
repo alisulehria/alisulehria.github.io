@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vizualtxt.github.io/sitemap.xml
+Sitemap: https://alisulehria.github.io/sitemap.xml
