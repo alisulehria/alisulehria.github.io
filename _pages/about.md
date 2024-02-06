@@ -16,7 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey! Welcome to latest and greatest in text-based biographical websites. My name is above in gigantic letters.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a senior undergraduate in Biomedical Engineering at Tulane in New Orleans. My minors, which history will not remember, are Electrical Engineering and Mathematics. If all goes well, this section will shortly be updated with "PhD Student in Electrical Engineering, Controls" and no one will ever read this sentence. I am passionate about imagining and creating new technologies, whether that's been in materials physics or in polymer and physical chemistry. I want to use my knowledge and passion for both engineering and math to devise control systems for the cutting edge in robotics and aerospace.
 
+I enjoy being able to do driven, wide-ranging work on complex problems, but I also partial to working with and coordinating a team of engineers. I'm most involved as a supplemental instructor for Statics and Mechanics of Materials, the president of Astronomy Club, and the president of the Biomedical Engineering Society. I really enjoy being able to mentor and teach other students or teammates, and these opportunities have, thankfully, been plentiful.
+
+Outside of school, you'll find me knee-deep in parts building hyper-specific things I won't need more than once, reviving ancient telescopes, lenses and watches, or hefting a camera around on walks. I also edit on Wikipedia, hike, and moonlight as a political campaign manager.
+
+--Ali
+
+**writing: (soon) to come**
