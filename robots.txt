@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vizualtxt.github.io/al-folio/sitemap.xml
+Sitemap: https://vizualtxt.github.io/sitemap.xml
