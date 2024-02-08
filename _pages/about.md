@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Biomedical Engineering student at Tulane University.</a>. alipsulehria@gmail.com
 
 profile:
   align: right
@@ -29,3 +27,4 @@ Outside of school, you'll find me knee-deep in parts building hyper-specific thi
 --Ali
 
 **writing: (soon) to come**
+
